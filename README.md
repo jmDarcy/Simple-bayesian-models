@@ -88,13 +88,21 @@ $$
 Y_i \sim \mathrm{Bernoulli}(p_i),
 $$
 
-$$
-\operatorname{logit}(p_i)
-=
+The probability of high income is linked to the predictors through the log-odds transformation:
+
+```math
 \log\left(\frac{p_i}{1-p_i}\right)
 =
 x_i^\top \beta.
-$$
+```
+
+Equivalently, the fitted probability is
+
+```math
+p_i
+=
+\frac{\exp(x_i^\top \beta)}{1+\exp(x_i^\top \beta)}.
+```
 
 The model constrains fitted probabilities to the interval `[0, 1]` and provides a natural interpretation through odds ratios:
 
