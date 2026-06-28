@@ -1,0 +1,21 @@
+.RData
+.Rhistory
+.RDataTmp*
+*.Rproj.user/
+
+# Stan and R caches
+*.rds
+*.RDS
+*.o
+*.so
+*.dll
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Archive duplicates
+*.zip

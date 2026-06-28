@@ -1,0 +1,14 @@
+"parameter","value"
+"DATA_SEED",121732
+"MCMC_SEED",20260609
+"N_SAMPLE",500
+"MCMC_CHAINS",4
+"MCMC_ITER",4000
+"MCMC_WARMUP",1000
+"MCMC_THIN",1
+"ADAPT_DELTA",0.95
+"MAX_TREEDEPTH",12
+"PRIOR_DF",4
+"divergences",0
+"max_treedepth_hits",0
+"mean_accept_stat",0.960714297910692

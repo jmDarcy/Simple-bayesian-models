@@ -1,0 +1,9 @@
+"variable","value"
+"(Intercept)",1
+"education_z",-0.49061430650084
+"age_z",-0.140047885760549
+"age_z2",0.0196134103059997
+"hours_z",-1.37173422767994
+"sex_male",1
+"married",1
+"capital_gain_ind",0

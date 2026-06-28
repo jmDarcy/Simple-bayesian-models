@@ -1,0 +1,2 @@
+"selected_observation","observed_y","posterior_mean_probability","posterior_median_probability","HPDI_lower_probability","HPDI_upper_probability","predictive_probability_y1"
+1,0,0.253391672812277,0.24982611190997,0.157005843052016,0.360602466023115,0.25375

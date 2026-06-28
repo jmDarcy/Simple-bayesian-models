@@ -1,0 +1,9 @@
+"parameter","opis","prior_df","prior_location_beta","prior_scale_beta","central_OR"
+"(Intercept)","wyraz wolny",4,-1.09861228866811,0.9,NA
+"education_z","edukacja, +1 SD",4,0.470003629245736,0.35,1.6
+"age_z","wiek, +1 SD",4,0.262364264467491,0.35,1.3
+"age_z2","kwadrat wieku",4,-0.162518929497775,0.3,0.85
+"hours_z","godziny pracy, +1 SD",4,0.22314355131421,0.3,1.25
+"sex_male","mężczyzna",4,0.336472236621213,0.45,1.4
+"married","w małżeństwie",4,0.693147180559945,0.45,2
+"capital_gain_ind","dodatnie zyski kapitałowe",4,1.09861228866811,0.7,3
