@@ -89,7 +89,7 @@ Y_i \sim \mathrm{Bernoulli}(p_i),
 $$
 
 $$
-\mathrm{logit}(p_i)
+\operatorname{logit}(p_i)
 =
 \log\left(\frac{p_i}{1-p_i}\right)
 =
